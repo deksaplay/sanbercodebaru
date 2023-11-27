@@ -4,7 +4,7 @@ module.exports = {
 
     dataeditprofile: {
         newpassword: 'NewPassword',
-        gender: 'Wanita',
+        gender: 'Pria',
         birthplace: 'Klaten',
         birthday: '1988-07-10',
         address: 'Alamat',
