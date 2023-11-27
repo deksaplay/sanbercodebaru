@@ -1,0 +1,22 @@
+module.exports = {
+    
+
+
+    testdata_event: {
+        searchquery: 'Small',
+        event_type: 'Acara Pernikahan',
+        clientname: 'Universitas ABC',
+        regency: 'KABUPATEN BOYOLALI, JAWA TENGAH',
+        event_title: 'Traditional Wedding',
+        description: 'Event Description',
+        venue: 'Event Venue',
+        address: 'Jl. Event',
+        date: '2022-12-25',
+        time_hour: '10',
+        time_minute: '00',
+        video: 'jkhsdf',
+        ceremony_maps: 'kjhawd',
+        reception_maps: 'aoixjpsad'
+    }
+    
+    }

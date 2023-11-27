@@ -1,0 +1,26 @@
+module.exports = {
+    
+
+data_register: {
+        email: 'test62@mail.com',
+        email2: 'test72@mail.com',
+        email3: 'test82@mail.com',
+        email4: 'test92@mail.com',
+        email5: 'test102@mail.com',
+        name: 'deksa',
+        birthday: '2000-07-23',
+        gender: 'Wanita',
+        address: 'Jl. Rajawali no. 271',
+        instagram: 'fdsfdsfds',
+        whatsapp: '80000002',
+        whatsapp2: '811111113',
+        whatsapp3: '822222224',
+        whatsapp4: '833333335',
+        whatsapp5: '844444446',
+        username: 'deksa',
+        
+        birthplace: 'Aceh',
+        occupation: 'Freelancer',
+        regency: 'KABUPATEN SIMEULUE, ACEH',
+        reference: '12332324'
+    }}

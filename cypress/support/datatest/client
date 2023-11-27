@@ -1,0 +1,20 @@
+module.exports = {
+    
+
+
+    testdata_client: {
+        searchquery: 'PT',
+        industry: 'Perusahaan Swasta',
+        clientname: 'Care Pte. Ltd.',
+        description: 'Description of Care',
+        address: 'Jl. Peduli',
+        regency: 'KABUPATEN ASAHAN, SUMATERA UTARA',
+        contactname: 'Mr. Care',
+        email: 'care@care.com',
+        contactnumber: '81237401',
+        website: 'care.com',
+        status: 'Activated',
+        logo: '../support/data/images/logo.png',
+        logo_filename: 'logo.png'
+    }
+    }
